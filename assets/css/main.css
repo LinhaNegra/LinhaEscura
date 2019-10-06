@@ -1,4 +1,5 @@
 *{
+    box-sizing: border-box;
     font: inherit;
     font-size: 100%;
     line-height: 1.6;
@@ -17,7 +18,34 @@ audio, img, iframe, video{
     width: 100%;
 }
 :root{
+    /*cores*/
+    --roxo: #9C63FF;
+    /*Fontes*/
     --roboto: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /*scroll*/
+}
+body{
+    scrollbar-face-color: #9C63FF;
+    scrollbar-shadow-color: #FFFFFF;
+    scrollbar-highlight-color: #FFFFFF;
+    scrollbar-3dlight-color: #FFFFFF;
+    scrollbar-darkshadow-color: #FFFFFF;
+    scrollbar-track-color: #FFFFFF;
+    scrollbar-arrow-color: #FFFFFF;
+}
+body::-webkit-scrollbar{
+    width: 10px;
+}
+body::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+body::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: #9C63FF; 
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
 }
 /*Buttons*/
 .bt{
@@ -32,23 +60,79 @@ audio, img, iframe, video{
     margin: 10px 0;
     padding: 0.78rem 1rem;
 }
+/*grids*/
+.container{
+    margin: 0 auto;
+    width: 99%;
+}
+.row{
+    display: flex;
+    flex-direction: column;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+@media(min-width: 48rem){
+    .container{
+        width: 960px;
+    }
+    .col-1 {width: 8.33%;}
+    .col-2 {width: 16.66%;}
+    .col-3 {width: 25%;}
+    .col-4 {width: 33.33%;}
+    .col-5 {width: 41.66%;}
+    .col-6 {width: 50%;}
+    .col-7 {width: 58.33%;}
+    .col-8 {width: 66.66%;}
+    .col-9 {width: 75%;}
+    .col-10 {width: 83.33%;}
+    .col-11 {width: 91.66%;}
+    .col-12 {width: 100%;}
+    .row{flex-direction: row;}
+
+}
 /*Header*/
 .imagem_topo{
-    margin-left: 15rem;
-    width: 60%;
+    margin-left: 10rem;
+    width: 80%;
 }
 /*menu*/
+.menu{
+    background-color: #262121;
+    padding: 0.7rem 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.menu .responsive-button{
+    display: block;
+}
 .menu .links{
     display: none;
+}
+.menu .links li:first-child{
+    border-bottom: 2px solid var(--roxo);
+}
+.menu .links li:hover{
+    border-bottom: 2px solid var(--roxo);
 }
 .menu .links li a{
     color: #fff;
     font-family: var(--roboto);
+    font-size: 0.87rem;
 }
 @media(min-width: 48rem){
+    .menu .links{
+        display: block;
+        width: 50%;
+    }
     .menu .links li {
         display: inline;
+        padding: 0.4rem 1rem;
     }
+    .menu .responsive-button{display: none;}
 }
 /*sections*/
 .main{
