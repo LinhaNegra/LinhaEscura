@@ -194,6 +194,7 @@ figure.snip1208 {
     margin: 0 auto;
     width: 99%;
 }
+[class*="col-"]{padding: 7px;}
 .row{
     display: flex;
     flex-direction: column;
@@ -227,13 +228,18 @@ figure.snip1208 {
     margin-left: 10rem;
     width: 80%;
 }
+.banner .container{padding: 3rem 0;}
 /*menu*/
 .menu{
-    background-color: #262121;
+    background-color: #19161b;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.07);
     padding: 0.7rem 1rem;
     display: flex;
     flex-direction: row;
     justify-content: center;
+    position: fixed;
+    width: 100%;
+    z-index: 2;
 }
 .menu .responsive-button{
     display: block;
@@ -252,6 +258,14 @@ figure.snip1208 {
     font-family: var(--roboto);
     font-size: 0.87rem;
 }
+.categorias a{
+    color: #fff;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.76rem;
+    padding: 0.9rem 0;
+    text-transform: uppercase;
+}
 @media(min-width: 48rem){
     .menu .links{
         display: block;
@@ -265,7 +279,7 @@ figure.snip1208 {
 }
 /*sections*/
 .main{
-    background-color: #262121;
+    background-color: #19161b;
     min-height: 100vh;
 }
 section{
