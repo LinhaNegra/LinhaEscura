@@ -1,0 +1,349 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1562.402" height="1161.544" viewBox="0 0 1562.402 1161.544">
+  <g id="Grupo_4" data-name="Grupo 4" transform="translate(-262 -245)">
+    <g id="pentest" transform="translate(350.602 403.65)">
+      <rect id="Retângulo_1" data-name="Retângulo 1" width="1237.55" height="665.701" fill="#3f3d56"/>
+      <rect id="Retângulo_2" data-name="Retângulo 2" width="10.913" height="17.461" transform="translate(223.719 93.853)" fill="#9c63ff"/>
+      <rect id="Retângulo_3" data-name="Retângulo 3" width="10.913" height="17.461" transform="translate(260.824 89.488)" fill="#9c63ff"/>
+      <rect id="Retângulo_4" data-name="Retângulo 4" width="10.913" height="17.461" transform="translate(280.468 89.488)" fill="#9c63ff"/>
+      <rect id="Retângulo_5" data-name="Retângulo 5" width="10.913" height="17.461" transform="translate(280.468 141.871)" fill="#9c63ff"/>
+      <rect id="Retângulo_6" data-name="Retângulo 6" width="10.913" height="17.461" transform="translate(302.294 115.679)" fill="#9c63ff"/>
+      <rect id="Retângulo_7" data-name="Retângulo 7" width="10.913" height="17.461" transform="translate(302.294 144.053)" fill="#9c63ff"/>
+      <rect id="Retângulo_8" data-name="Retângulo 8" width="10.913" height="17.461" transform="translate(280.468 198.619)" fill="#9c63ff"/>
+      <rect id="Retângulo_9" data-name="Retângulo 9" width="10.913" height="17.461" transform="translate(302.294 226.993)" fill="#9c63ff"/>
+      <rect id="Retângulo_10" data-name="Retângulo 10" width="10.913" height="17.461" transform="translate(280.468 333.942)" fill="#9c63ff"/>
+      <rect id="Retângulo_11" data-name="Retângulo 11" width="10.913" height="17.461" transform="translate(260.824 226.993)" fill="#9c63ff"/>
+      <rect id="Retângulo_12" data-name="Retângulo 12" width="10.913" height="17.461" transform="translate(223.719 122.227)" fill="#9c63ff"/>
+      <rect id="Retângulo_13" data-name="Retângulo 13" width="10.913" height="17.461" transform="translate(223.719 395.056)" fill="#9c63ff"/>
+      <rect id="Retângulo_14" data-name="Retângulo 14" width="10.913" height="17.461" transform="translate(223.719 451.804)" fill="#9c63ff"/>
+      <rect id="Retângulo_15" data-name="Retângulo 15" width="10.913" height="17.461" transform="translate(223.719 480.178)" fill="#9c63ff"/>
+      <rect id="Retângulo_16" data-name="Retângulo 16" width="15.278" height="2.183" transform="translate(219.354 152.784)" fill="#9c63ff"/>
+      <rect id="Retângulo_17" data-name="Retângulo 17" width="15.278" height="2.183" transform="translate(278.285 178.975)" fill="#9c63ff"/>
+      <rect id="Retângulo_18" data-name="Retângulo 18" width="15.278" height="2.183" transform="translate(219.354 292.472)" fill="#9c63ff"/>
+      <rect id="Retângulo_19" data-name="Retângulo 19" width="15.278" height="2.183" transform="translate(219.354 316.481)" fill="#9c63ff"/>
+      <rect id="Retângulo_20" data-name="Retângulo 20" width="15.278" height="2.183" transform="translate(278.285 456.169)" fill="#9c63ff"/>
+      <rect id="Retângulo_21" data-name="Retângulo 21" width="15.278" height="2.183" transform="translate(260.824 508.552)" fill="#9c63ff"/>
+      <path id="Caminho_2" data-name="Caminho 2" d="M158.179,121.914v4.365h4.365v8.731h-4.365v4.365h10.913v-17.46Z" transform="translate(65.54 50.514)" fill="#9c63ff"/>
+      <path id="Caminho_3" data-name="Caminho 3" d="M184.414,100.309v4.365h4.365V113.4h-4.365v4.365h10.913v-17.46Z" transform="translate(76.411 41.562)" fill="#9c63ff"/>
+      <path id="Caminho_4" data-name="Caminho 4" d="M213.735,120.37v4.366H218.1v8.731h-4.365v4.365h10.913V120.37Z" transform="translate(88.559 49.874)" fill="#9c63ff"/>
+      <path id="Caminho_5" data-name="Caminho 5" d="M213.735,180.556v4.365H218.1v8.731h-4.365v4.365h10.913v-17.46Z" transform="translate(88.559 74.812)" fill="#9c63ff"/>
+      <path id="Caminho_6" data-name="Caminho 6" d="M213.735,200.617v4.366H218.1v8.731h-4.365v4.365h10.913V200.617Z" transform="translate(88.559 83.124)" fill="#9c63ff"/>
+      <path id="Caminho_7" data-name="Caminho 7" d="M213.735,138.889v4.365H218.1v8.731h-4.365v4.366h10.913V138.889Z" transform="translate(88.559 57.548)" fill="#9c63ff"/>
+      <path id="Caminho_8" data-name="Caminho 8" d="M198.3,81.79v4.366h4.366v8.729H198.3v4.366h10.914V81.79Z" transform="translate(82.165 33.889)" fill="#9c63ff"/>
+      <rect id="Retângulo_22" data-name="Retângulo 22" width="10.913" height="17.461" transform="translate(280.468 255.367)" fill="#9c63ff"/>
+      <rect id="Retângulo_23" data-name="Retângulo 23" width="10.913" height="17.461" transform="translate(280.468 307.75)" fill="#9c63ff"/>
+      <path id="Caminho_9" data-name="Caminho 9" d="M198.3,199.074v4.365h4.366v8.731H198.3v4.366h10.914V199.074Z" transform="translate(82.165 82.485)" fill="#9c63ff"/>
+      <path id="Caminho_10" data-name="Caminho 10" d="M184.414,120.37v4.366h4.365v8.731h-4.365v4.365h10.913V120.37Z" transform="translate(76.411 49.874)" fill="#9c63ff"/>
+      <path id="Caminho_11" data-name="Caminho 11" d="M184.414,140.432V144.8h4.365v8.729h-4.365v4.366h10.913V140.432Z" transform="translate(76.411 58.187)" fill="#9c63ff"/>
+      <rect id="Retângulo_24" data-name="Retângulo 24" width="10.913" height="17.461" transform="translate(260.824 283.742)" fill="#9c63ff"/>
+      <path id="Caminho_12" data-name="Caminho 12" d="M184.414,180.556v4.365h4.365v8.731h-4.365v4.365h10.913v-17.46Z" transform="translate(76.411 74.812)" fill="#9c63ff"/>
+      <rect id="Retângulo_25" data-name="Retângulo 25" width="10.913" height="17.461" transform="translate(260.824 340.49)" fill="#9c63ff"/>
+      <path id="Caminho_13" data-name="Caminho 13" d="M184.414,220.679v4.365h4.365v8.731h-4.365v4.366h10.913V220.679Z" transform="translate(76.411 91.437)" fill="#9c63ff"/>
+      <rect id="Retângulo_26" data-name="Retângulo 26" width="10.913" height="17.461" transform="translate(260.824 397.238)" fill="#9c63ff"/>
+      <rect id="Retângulo_27" data-name="Retângulo 27" width="10.913" height="17.461" transform="translate(280.468 392.873)" fill="#9c63ff"/>
+      <path id="Caminho_14" data-name="Caminho 14" d="M184.414,260.8v4.366h4.365V273.9h-4.365v4.365h10.913V260.8Z" transform="translate(76.411 108.061)" fill="#9c63ff"/>
+      <path id="Caminho_15" data-name="Caminho 15" d="M213.735,260.8v4.366H218.1V273.9h-4.365v4.365h10.913V260.8Z" transform="translate(88.559 108.061)" fill="#9c63ff"/>
+      <rect id="Retângulo_28" data-name="Retângulo 28" width="10.913" height="17.461" transform="translate(413.608 115.679)" fill="#9c63ff"/>
+      <rect id="Retângulo_29" data-name="Retângulo 29" width="10.913" height="17.461" transform="translate(413.608 144.053)" fill="#9c63ff"/>
+      <rect id="Retângulo_30" data-name="Retângulo 30" width="10.913" height="17.461" transform="translate(413.608 226.993)" fill="#9c63ff"/>
+      <path id="Caminho_16" data-name="Caminho 16" d="M292.438,120.37v4.366H296.8v8.731h-4.366v4.365h10.913V120.37Z" transform="translate(121.169 49.874)" fill="#9c63ff"/>
+      <path id="Caminho_17" data-name="Caminho 17" d="M292.438,180.556v4.365H296.8v8.731h-4.366v4.365h10.913v-17.46Z" transform="translate(121.169 74.812)" fill="#9c63ff"/>
+      <path id="Caminho_18" data-name="Caminho 18" d="M292.438,200.617v4.366H296.8v8.731h-4.366v4.365h10.913V200.617Z" transform="translate(121.169 83.124)" fill="#9c63ff"/>
+      <path id="Caminho_19" data-name="Caminho 19" d="M292.438,138.889v4.365H296.8v8.731h-4.366v4.366h10.913V138.889Z" transform="translate(121.169 57.548)" fill="#9c63ff"/>
+      <path id="Caminho_20" data-name="Caminho 20" d="M292.438,260.8v4.366H296.8V273.9h-4.366v4.365h10.913V260.8Z" transform="translate(121.169 108.061)" fill="#9c63ff"/>
+      <rect id="Retângulo_31" data-name="Retângulo 31" width="10.913" height="17.461" transform="translate(260.824 453.986)" fill="#9c63ff"/>
+      <rect id="Retângulo_32" data-name="Retângulo 32" width="10.913" height="17.461" transform="translate(280.468 421.247)" fill="#9c63ff"/>
+      <rect id="Retângulo_33" data-name="Retângulo 33" width="10.913" height="17.461" transform="translate(260.824 528.196)" fill="#9c63ff"/>
+      <rect id="Retângulo_34" data-name="Retângulo 34" width="10.913" height="17.461" transform="translate(280.468 475.813)" fill="#9c63ff"/>
+      <path id="Caminho_21" data-name="Caminho 21" d="M184.414,300.926v4.365h4.365v8.731h-4.365v4.366h10.913V300.926Z" transform="translate(76.411 124.686)" fill="#9c63ff"/>
+      <path id="Caminho_22" data-name="Caminho 22" d="M184.414,395.062v4.365h4.365v8.731h-4.365v4.365h10.913v-17.46Z" transform="translate(76.411 163.691)" fill="#9c63ff"/>
+      <rect id="Retângulo_35" data-name="Retângulo 35" width="10.913" height="17.461" transform="translate(380.868 89.488)" fill="#9c63ff"/>
+      <rect id="Retângulo_36" data-name="Retângulo 36" width="10.913" height="17.461" transform="translate(380.868 226.993)" fill="#9c63ff"/>
+      <rect id="Retângulo_37" data-name="Retângulo 37" width="15.278" height="2.183" transform="translate(380.868 508.552)" fill="#9c63ff"/>
+      <path id="Caminho_23" data-name="Caminho 23" d="M269.29,100.309v4.365h4.366V113.4H269.29v4.365H280.2v-17.46Z" transform="translate(111.578 41.562)" fill="#9c63ff"/>
+      <path id="Caminho_24" data-name="Caminho 24" d="M269.29,120.37v4.366h4.366v8.731H269.29v4.365H280.2V120.37Z" transform="translate(111.578 49.874)" fill="#9c63ff"/>
+      <path id="Caminho_25" data-name="Caminho 25" d="M269.29,140.432V144.8h4.366v8.729H269.29v4.366H280.2V140.432Z" transform="translate(111.578 58.187)" fill="#9c63ff"/>
+      <rect id="Retângulo_38" data-name="Retângulo 38" width="10.913" height="17.461" transform="translate(380.868 283.742)" fill="#9c63ff"/>
+      <path id="Caminho_26" data-name="Caminho 26" d="M269.29,180.556v4.365h4.366v8.731H269.29v4.365H280.2v-17.46Z" transform="translate(111.578 74.812)" fill="#9c63ff"/>
+      <rect id="Retângulo_39" data-name="Retângulo 39" width="10.913" height="17.461" transform="translate(380.868 340.49)" fill="#9c63ff"/>
+      <path id="Caminho_27" data-name="Caminho 27" d="M269.29,220.679v4.365h4.366v8.731H269.29v4.366H280.2V220.679Z" transform="translate(111.578 91.437)" fill="#9c63ff"/>
+      <rect id="Retângulo_40" data-name="Retângulo 40" width="10.913" height="17.461" transform="translate(380.868 397.238)" fill="#9c63ff"/>
+      <path id="Caminho_28" data-name="Caminho 28" d="M269.29,260.8v4.366h4.366V273.9H269.29v4.365H280.2V260.8Z" transform="translate(111.578 108.061)" fill="#9c63ff"/>
+      <rect id="Retângulo_41" data-name="Retângulo 41" width="10.913" height="17.461" transform="translate(380.868 453.986)" fill="#9c63ff"/>
+      <rect id="Retângulo_42" data-name="Retângulo 42" width="10.913" height="17.461" transform="translate(380.868 528.196)" fill="#9c63ff"/>
+      <path id="Caminho_29" data-name="Caminho 29" d="M269.29,300.926v4.365h4.366v8.731H269.29v4.366H280.2V300.926Z" transform="translate(111.578 124.686)" fill="#9c63ff"/>
+      <path id="Caminho_30" data-name="Caminho 30" d="M269.29,395.062v4.365h4.366v8.731H269.29v4.365H280.2v-17.46Z" transform="translate(111.578 163.691)" fill="#9c63ff"/>
+      <rect id="Retângulo_43" data-name="Retângulo 43" width="10.913" height="17.461" transform="translate(433.251 89.488)" fill="#9c63ff"/>
+      <rect id="Retângulo_44" data-name="Retângulo 44" width="10.913" height="17.461" transform="translate(433.251 226.993)" fill="#9c63ff"/>
+      <rect id="Retângulo_45" data-name="Retângulo 45" width="15.278" height="2.183" transform="translate(433.251 508.552)" fill="#9c63ff"/>
+      <path id="Caminho_31" data-name="Caminho 31" d="M306.327,100.309v4.365h4.366V113.4h-4.366v4.365H317.24v-17.46Z" transform="translate(126.924 41.562)" fill="#9c63ff"/>
+      <path id="Caminho_32" data-name="Caminho 32" d="M306.327,120.37v4.366h4.366v8.731h-4.366v4.365H317.24V120.37Z" transform="translate(126.924 49.874)" fill="#9c63ff"/>
+      <path id="Caminho_33" data-name="Caminho 33" d="M306.327,140.432V144.8h4.366v8.729h-4.366v4.366H317.24V140.432Z" transform="translate(126.924 58.187)" fill="#9c63ff"/>
+      <rect id="Retângulo_46" data-name="Retângulo 46" width="10.913" height="17.461" transform="translate(433.251 283.742)" fill="#9c63ff"/>
+      <path id="Caminho_34" data-name="Caminho 34" d="M306.327,180.556v4.365h4.366v8.731h-4.366v4.365H317.24v-17.46Z" transform="translate(126.924 74.812)" fill="#9c63ff"/>
+      <rect id="Retângulo_47" data-name="Retângulo 47" width="10.913" height="17.461" transform="translate(433.251 340.49)" fill="#9c63ff"/>
+      <path id="Caminho_35" data-name="Caminho 35" d="M306.327,220.679v4.365h4.366v8.731h-4.366v4.366H317.24V220.679Z" transform="translate(126.924 91.437)" fill="#9c63ff"/>
+      <rect id="Retângulo_48" data-name="Retângulo 48" width="10.913" height="17.461" transform="translate(433.251 397.238)" fill="#9c63ff"/>
+      <path id="Caminho_36" data-name="Caminho 36" d="M306.327,260.8v4.366h4.366V273.9h-4.366v4.365H317.24V260.8Z" transform="translate(126.924 108.061)" fill="#9c63ff"/>
+      <rect id="Retângulo_49" data-name="Retângulo 49" width="10.913" height="17.461" transform="translate(433.251 453.986)" fill="#9c63ff"/>
+      <rect id="Retângulo_50" data-name="Retângulo 50" width="10.913" height="17.461" transform="translate(433.251 528.196)" fill="#9c63ff"/>
+      <path id="Caminho_37" data-name="Caminho 37" d="M306.327,300.926v4.365h4.366v8.731h-4.366v4.366H317.24V300.926Z" transform="translate(126.924 124.686)" fill="#9c63ff"/>
+      <path id="Caminho_38" data-name="Caminho 38" d="M306.327,395.062v4.365h4.366v8.731h-4.366v4.365H317.24v-17.46Z" transform="translate(126.924 163.691)" fill="#9c63ff"/>
+      <path id="Caminho_39" data-name="Caminho 39" d="M198.3,373.457v4.365h4.366v8.731H198.3v4.365h10.914v-17.46Z" transform="translate(82.165 154.739)" fill="#9c63ff"/>
+      <path id="Caminho_40" data-name="Caminho 40" d="M198.3,393.519v4.365h4.366v8.731H198.3v4.365h10.914v-17.46Z" transform="translate(82.165 163.052)" fill="#9c63ff"/>
+      <path id="Caminho_41" data-name="Caminho 41" d="M158.179,160.494v4.365h4.365v8.731h-4.365v4.366h10.913V160.494Z" transform="translate(65.54 66.499)" fill="#9c63ff"/>
+      <path id="Caminho_42" data-name="Caminho 42" d="M158.179,239.2v4.365h4.365v8.731h-4.365v4.365h10.913V239.2Z" transform="translate(65.54 99.11)" fill="#9c63ff"/>
+      <path id="Caminho_43" data-name="Caminho 43" d="M158.179,259.259v4.366h4.365v8.731h-4.365v4.365h10.913V259.259Z" transform="translate(65.54 107.422)" fill="#9c63ff"/>
+      <path id="Caminho_44" data-name="Caminho 44" d="M158.179,299.383v4.365h4.365v8.731h-4.365v4.365h10.913v-17.46Z" transform="translate(65.54 124.047)" fill="#9c63ff"/>
+      <path id="Caminho_45" data-name="Caminho 45" d="M158.179,356.481v4.366h4.365v8.731h-4.365v4.365h10.913V356.481Z" transform="translate(65.54 147.705)" fill="#9c63ff"/>
+      <path id="Caminho_46" data-name="Caminho 46" d="M158.179,373.457v4.365h4.365v8.731h-4.365v4.365h10.913v-17.46Z" transform="translate(65.54 154.739)" fill="#9c63ff"/>
+      <rect id="Retângulo_51" data-name="Retângulo 51" width="10.913" height="17.461" transform="translate(337.216 93.853)" fill="#9c63ff"/>
+      <rect id="Retângulo_52" data-name="Retângulo 52" width="10.913" height="17.461" transform="translate(337.216 122.227)" fill="#9c63ff"/>
+      <rect id="Retângulo_53" data-name="Retângulo 53" width="15.278" height="2.183" transform="translate(332.851 152.784)" fill="#9c63ff"/>
+      <rect id="Retângulo_54" data-name="Retângulo 54" width="15.278" height="2.183" transform="translate(332.851 292.472)" fill="#9c63ff"/>
+      <rect id="Retângulo_55" data-name="Retângulo 55" width="15.278" height="2.183" transform="translate(332.851 316.481)" fill="#9c63ff"/>
+      <path id="Caminho_47" data-name="Caminho 47" d="M238.426,121.914v4.365h4.365v8.731h-4.365v4.365h10.913v-17.46Z" transform="translate(98.79 50.514)" fill="#9c63ff"/>
+      <path id="Caminho_48" data-name="Caminho 48" d="M238.426,160.494v4.365h4.365v8.731h-4.365v4.366h10.913V160.494Z" transform="translate(98.79 66.499)" fill="#9c63ff"/>
+      <path id="Caminho_49" data-name="Caminho 49" d="M238.426,239.2v4.365h4.365v8.731h-4.365v4.365h10.913V239.2Z" transform="translate(98.79 99.11)" fill="#9c63ff"/>
+      <rect id="Retângulo_56" data-name="Retângulo 56" width="10.913" height="17.461" transform="translate(461.626 283.742)" fill="#9c63ff"/>
+      <rect id="Retângulo_57" data-name="Retângulo 57" width="10.913" height="17.461" transform="translate(461.626 312.116)" fill="#9c63ff"/>
+      <rect id="Retângulo_58" data-name="Retângulo 58" width="15.278" height="2.183" transform="translate(457.26 342.672)" fill="#9c63ff"/>
+      <rect id="Retângulo_59" data-name="Retângulo 59" width="15.278" height="2.183" transform="translate(457.26 482.361)" fill="#9c63ff"/>
+      <rect id="Retângulo_60" data-name="Retângulo 60" width="15.278" height="2.183" transform="translate(457.26 506.37)" fill="#9c63ff"/>
+      <path id="Caminho_50" data-name="Caminho 50" d="M326.389,256.173v4.365h4.365v8.731h-4.365v4.366H337.3V256.173Z" transform="translate(135.237 106.143)" fill="#9c63ff"/>
+      <path id="Caminho_51" data-name="Caminho 51" d="M326.389,294.753v4.366h4.365v8.729h-4.365v4.366H337.3V294.753Z" transform="translate(135.237 122.129)" fill="#9c63ff"/>
+      <path id="Caminho_52" data-name="Caminho 52" d="M326.389,373.457v4.365h4.365v8.731h-4.365v4.365H337.3v-17.46Z" transform="translate(135.237 154.739)" fill="#9c63ff"/>
+      <rect id="Retângulo_61" data-name="Retângulo 61" width="10.913" height="17.461" transform="translate(496.548 93.853)" fill="#9c63ff"/>
+      <rect id="Retângulo_62" data-name="Retângulo 62" width="10.913" height="17.461" transform="translate(533.652 89.488)" fill="#9c63ff"/>
+      <rect id="Retângulo_63" data-name="Retângulo 63" width="10.913" height="17.461" transform="translate(553.296 89.488)" fill="#9c63ff"/>
+      <rect id="Retângulo_64" data-name="Retângulo 64" width="10.913" height="17.461" transform="translate(553.296 141.871)" fill="#9c63ff"/>
+      <rect id="Retângulo_65" data-name="Retângulo 65" width="10.913" height="17.461" transform="translate(575.122 115.679)" fill="#9c63ff"/>
+      <rect id="Retângulo_66" data-name="Retângulo 66" width="10.913" height="17.461" transform="translate(575.122 144.053)" fill="#9c63ff"/>
+      <rect id="Retângulo_67" data-name="Retângulo 67" width="10.913" height="17.461" transform="translate(553.296 198.619)" fill="#9c63ff"/>
+      <rect id="Retângulo_68" data-name="Retângulo 68" width="10.913" height="17.461" transform="translate(575.122 226.993)" fill="#9c63ff"/>
+      <rect id="Retângulo_69" data-name="Retângulo 69" width="10.913" height="17.461" transform="translate(553.296 333.942)" fill="#9c63ff"/>
+      <rect id="Retângulo_70" data-name="Retângulo 70" width="10.913" height="17.461" transform="translate(533.652 226.993)" fill="#9c63ff"/>
+      <rect id="Retângulo_71" data-name="Retângulo 71" width="10.913" height="17.461" transform="translate(496.548 122.227)" fill="#9c63ff"/>
+      <rect id="Retângulo_72" data-name="Retângulo 72" width="10.913" height="17.461" transform="translate(496.548 395.056)" fill="#9c63ff"/>
+      <rect id="Retângulo_73" data-name="Retângulo 73" width="10.913" height="17.461" transform="translate(496.548 451.804)" fill="#9c63ff"/>
+      <rect id="Retângulo_74" data-name="Retângulo 74" width="10.913" height="17.461" transform="translate(496.548 480.178)" fill="#9c63ff"/>
+      <rect id="Retângulo_75" data-name="Retângulo 75" width="15.278" height="2.183" transform="translate(492.182 152.784)" fill="#9c63ff"/>
+      <rect id="Retângulo_76" data-name="Retângulo 76" width="15.278" height="2.183" transform="translate(551.113 178.975)" fill="#9c63ff"/>
+      <rect id="Retângulo_77" data-name="Retângulo 77" width="15.278" height="2.183" transform="translate(492.182 292.472)" fill="#9c63ff"/>
+      <rect id="Retângulo_78" data-name="Retângulo 78" width="15.278" height="2.183" transform="translate(492.182 316.481)" fill="#9c63ff"/>
+      <rect id="Retângulo_79" data-name="Retângulo 79" width="15.278" height="2.183" transform="translate(551.113 456.169)" fill="#9c63ff"/>
+      <rect id="Retângulo_80" data-name="Retângulo 80" width="15.278" height="2.183" transform="translate(533.652 508.552)" fill="#9c63ff"/>
+      <path id="Caminho_53" data-name="Caminho 53" d="M351.08,121.914v4.365h4.366v8.731H351.08v4.365h10.913v-17.46Z" transform="translate(145.467 50.514)" fill="#9c63ff"/>
+      <path id="Caminho_54" data-name="Caminho 54" d="M377.315,100.309v4.365h4.365V113.4h-4.365v4.365h10.913v-17.46Z" transform="translate(156.338 41.562)" fill="#9c63ff"/>
+      <path id="Caminho_55" data-name="Caminho 55" d="M406.636,120.37v4.366H411v8.731h-4.365v4.365h10.913V120.37Z" transform="translate(168.487 49.874)" fill="#9c63ff"/>
+      <path id="Caminho_56" data-name="Caminho 56" d="M406.636,180.556v4.365H411v8.731h-4.365v4.365h10.913v-17.46Z" transform="translate(168.487 74.812)" fill="#9c63ff"/>
+      <path id="Caminho_57" data-name="Caminho 57" d="M406.636,200.617v4.366H411v8.731h-4.365v4.365h10.913V200.617Z" transform="translate(168.487 83.124)" fill="#9c63ff"/>
+      <path id="Caminho_58" data-name="Caminho 58" d="M406.636,138.889v4.365H411v8.731h-4.365v4.366h10.913V138.889Z" transform="translate(168.487 57.548)" fill="#9c63ff"/>
+      <path id="Caminho_59" data-name="Caminho 59" d="M391.2,81.79v4.366h4.365v8.729H391.2v4.366h10.913V81.79Z" transform="translate(162.092 33.889)" fill="#9c63ff"/>
+      <rect id="Retângulo_81" data-name="Retângulo 81" width="10.913" height="17.461" transform="translate(553.296 255.367)" fill="#9c63ff"/>
+      <rect id="Retângulo_82" data-name="Retângulo 82" width="10.913" height="17.461" transform="translate(553.296 307.75)" fill="#9c63ff"/>
+      <path id="Caminho_60" data-name="Caminho 60" d="M391.2,199.074v4.365h4.365v8.731H391.2v4.366h10.913V199.074Z" transform="translate(162.092 82.485)" fill="#9c63ff"/>
+      <path id="Caminho_61" data-name="Caminho 61" d="M377.315,120.37v4.366h4.365v8.731h-4.365v4.365h10.913V120.37Z" transform="translate(156.338 49.874)" fill="#9c63ff"/>
+      <path id="Caminho_62" data-name="Caminho 62" d="M377.315,140.432V144.8h4.365v8.729h-4.365v4.366h10.913V140.432Z" transform="translate(156.338 58.187)" fill="#9c63ff"/>
+      <rect id="Retângulo_83" data-name="Retângulo 83" width="10.913" height="17.461" transform="translate(533.652 283.742)" fill="#9c63ff"/>
+      <path id="Caminho_63" data-name="Caminho 63" d="M377.315,180.556v4.365h4.365v8.731h-4.365v4.365h10.913v-17.46Z" transform="translate(156.338 74.812)" fill="#9c63ff"/>
+      <rect id="Retângulo_84" data-name="Retângulo 84" width="10.913" height="17.461" transform="translate(533.652 340.49)" fill="#9c63ff"/>
+      <path id="Caminho_64" data-name="Caminho 64" d="M377.315,220.679v4.365h4.365v8.731h-4.365v4.366h10.913V220.679Z" transform="translate(156.338 91.437)" fill="#9c63ff"/>
+      <rect id="Retângulo_85" data-name="Retângulo 85" width="10.913" height="17.461" transform="translate(533.652 397.238)" fill="#9c63ff"/>
+      <rect id="Retângulo_86" data-name="Retângulo 86" width="10.913" height="17.461" transform="translate(553.296 392.873)" fill="#9c63ff"/>
+      <path id="Caminho_65" data-name="Caminho 65" d="M377.315,260.8v4.366h4.365V273.9h-4.365v4.365h10.913V260.8Z" transform="translate(156.338 108.061)" fill="#9c63ff"/>
+      <path id="Caminho_66" data-name="Caminho 66" d="M406.636,260.8v4.366H411V273.9h-4.365v4.365h10.913V260.8Z" transform="translate(168.487 108.061)" fill="#9c63ff"/>
+      <rect id="Retângulo_87" data-name="Retângulo 87" width="10.913" height="17.461" transform="translate(686.436 115.679)" fill="#9c63ff"/>
+      <rect id="Retângulo_88" data-name="Retângulo 88" width="10.913" height="17.461" transform="translate(686.436 144.053)" fill="#9c63ff"/>
+      <rect id="Retângulo_89" data-name="Retângulo 89" width="10.913" height="17.461" transform="translate(686.436 226.993)" fill="#9c63ff"/>
+      <path id="Caminho_67" data-name="Caminho 67" d="M485.34,120.37v4.366H489.7v8.731H485.34v4.365h10.913V120.37Z" transform="translate(201.097 49.874)" fill="#9c63ff"/>
+      <path id="Caminho_68" data-name="Caminho 68" d="M485.34,180.556v4.365H489.7v8.731H485.34v4.365h10.913v-17.46Z" transform="translate(201.097 74.812)" fill="#9c63ff"/>
+      <path id="Caminho_69" data-name="Caminho 69" d="M485.34,200.617v4.366H489.7v8.731H485.34v4.365h10.913V200.617Z" transform="translate(201.097 83.124)" fill="#9c63ff"/>
+      <path id="Caminho_70" data-name="Caminho 70" d="M485.34,138.889v4.365H489.7v8.731H485.34v4.366h10.913V138.889Z" transform="translate(201.097 57.548)" fill="#9c63ff"/>
+      <path id="Caminho_71" data-name="Caminho 71" d="M485.34,260.8v4.366H489.7V273.9H485.34v4.365h10.913V260.8Z" transform="translate(201.097 108.061)" fill="#9c63ff"/>
+      <rect id="Retângulo_90" data-name="Retângulo 90" width="10.913" height="17.461" transform="translate(533.652 453.986)" fill="#9c63ff"/>
+      <rect id="Retângulo_91" data-name="Retângulo 91" width="10.913" height="17.461" transform="translate(553.296 421.247)" fill="#9c63ff"/>
+      <rect id="Retângulo_92" data-name="Retângulo 92" width="10.913" height="17.461" transform="translate(533.652 528.196)" fill="#9c63ff"/>
+      <rect id="Retângulo_93" data-name="Retângulo 93" width="10.913" height="17.461" transform="translate(553.296 475.813)" fill="#9c63ff"/>
+      <path id="Caminho_72" data-name="Caminho 72" d="M377.315,300.926v4.365h4.365v8.731h-4.365v4.366h10.913V300.926Z" transform="translate(156.338 124.686)" fill="#9c63ff"/>
+      <path id="Caminho_73" data-name="Caminho 73" d="M377.315,395.062v4.365h4.365v8.731h-4.365v4.365h10.913v-17.46Z" transform="translate(156.338 163.691)" fill="#9c63ff"/>
+      <rect id="Retângulo_94" data-name="Retângulo 94" width="10.913" height="17.461" transform="translate(653.697 89.488)" fill="#9c63ff"/>
+      <rect id="Retângulo_95" data-name="Retângulo 95" width="10.913" height="17.461" transform="translate(653.697 226.993)" fill="#9c63ff"/>
+      <rect id="Retângulo_96" data-name="Retângulo 96" width="15.278" height="2.183" transform="translate(653.697 508.552)" fill="#9c63ff"/>
+      <path id="Caminho_74" data-name="Caminho 74" d="M462.191,100.309v4.365h4.366V113.4h-4.366v4.365H473.1v-17.46Z" transform="translate(191.505 41.562)" fill="#9c63ff"/>
+      <path id="Caminho_75" data-name="Caminho 75" d="M462.191,120.37v4.366h4.366v8.731h-4.366v4.365H473.1V120.37Z" transform="translate(191.505 49.874)" fill="#9c63ff"/>
+      <path id="Caminho_76" data-name="Caminho 76" d="M462.191,140.432V144.8h4.366v8.729h-4.366v4.366H473.1V140.432Z" transform="translate(191.505 58.187)" fill="#9c63ff"/>
+      <rect id="Retângulo_97" data-name="Retângulo 97" width="10.913" height="17.461" transform="translate(653.697 283.742)" fill="#9c63ff"/>
+      <path id="Caminho_77" data-name="Caminho 77" d="M462.191,180.556v4.365h4.366v8.731h-4.366v4.365H473.1v-17.46Z" transform="translate(191.505 74.812)" fill="#9c63ff"/>
+      <rect id="Retângulo_98" data-name="Retângulo 98" width="10.913" height="17.461" transform="translate(653.697 340.49)" fill="#9c63ff"/>
+      <path id="Caminho_78" data-name="Caminho 78" d="M462.191,220.679v4.365h4.366v8.731h-4.366v4.366H473.1V220.679Z" transform="translate(191.505 91.437)" fill="#9c63ff"/>
+      <rect id="Retângulo_99" data-name="Retângulo 99" width="10.913" height="17.461" transform="translate(653.697 397.238)" fill="#9c63ff"/>
+      <path id="Caminho_79" data-name="Caminho 79" d="M462.191,260.8v4.366h4.366V273.9h-4.366v4.365H473.1V260.8Z" transform="translate(191.505 108.061)" fill="#9c63ff"/>
+      <rect id="Retângulo_100" data-name="Retângulo 100" width="10.913" height="17.461" transform="translate(653.697 453.986)" fill="#9c63ff"/>
+      <rect id="Retângulo_101" data-name="Retângulo 101" width="10.913" height="17.461" transform="translate(653.697 528.196)" fill="#9c63ff"/>
+      <path id="Caminho_80" data-name="Caminho 80" d="M462.191,300.926v4.365h4.366v8.731h-4.366v4.366H473.1V300.926Z" transform="translate(191.505 124.686)" fill="#9c63ff"/>
+      <path id="Caminho_81" data-name="Caminho 81" d="M462.191,395.062v4.365h4.366v8.731h-4.366v4.365H473.1v-17.46Z" transform="translate(191.505 163.691)" fill="#9c63ff"/>
+      <rect id="Retângulo_102" data-name="Retângulo 102" width="10.913" height="17.461" transform="translate(706.08 89.488)" fill="#9c63ff"/>
+      <rect id="Retângulo_103" data-name="Retângulo 103" width="10.913" height="17.461" transform="translate(706.08 226.993)" fill="#9c63ff"/>
+      <rect id="Retângulo_104" data-name="Retângulo 104" width="15.278" height="2.183" transform="translate(706.08 508.552)" fill="#9c63ff"/>
+      <path id="Caminho_82" data-name="Caminho 82" d="M499.228,100.309v4.365h4.366V113.4h-4.366v4.365h10.913v-17.46Z" transform="translate(206.851 41.562)" fill="#9c63ff"/>
+      <path id="Caminho_83" data-name="Caminho 83" d="M499.228,120.37v4.366h4.366v8.731h-4.366v4.365h10.913V120.37Z" transform="translate(206.851 49.874)" fill="#9c63ff"/>
+      <path id="Caminho_84" data-name="Caminho 84" d="M499.228,140.432V144.8h4.366v8.729h-4.366v4.366h10.913V140.432Z" transform="translate(206.851 58.187)" fill="#9c63ff"/>
+      <rect id="Retângulo_105" data-name="Retângulo 105" width="10.913" height="17.461" transform="translate(706.08 283.742)" fill="#9c63ff"/>
+      <path id="Caminho_85" data-name="Caminho 85" d="M499.228,180.556v4.365h4.366v8.731h-4.366v4.365h10.913v-17.46Z" transform="translate(206.851 74.812)" fill="#9c63ff"/>
+      <rect id="Retângulo_106" data-name="Retângulo 106" width="10.913" height="17.461" transform="translate(706.08 340.49)" fill="#9c63ff"/>
+      <path id="Caminho_86" data-name="Caminho 86" d="M499.228,220.679v4.365h4.366v8.731h-4.366v4.366h10.913V220.679Z" transform="translate(206.851 91.437)" fill="#9c63ff"/>
+      <rect id="Retângulo_107" data-name="Retângulo 107" width="10.913" height="17.461" transform="translate(706.08 397.238)" fill="#9c63ff"/>
+      <path id="Caminho_87" data-name="Caminho 87" d="M499.228,260.8v4.366h4.366V273.9h-4.366v4.365h10.913V260.8Z" transform="translate(206.851 108.061)" fill="#9c63ff"/>
+      <rect id="Retângulo_108" data-name="Retângulo 108" width="10.913" height="17.461" transform="translate(706.08 453.986)" fill="#9c63ff"/>
+      <rect id="Retângulo_109" data-name="Retângulo 109" width="10.913" height="17.461" transform="translate(706.08 528.196)" fill="#9c63ff"/>
+      <path id="Caminho_88" data-name="Caminho 88" d="M499.228,300.926v4.365h4.366v8.731h-4.366v4.366h10.913V300.926Z" transform="translate(206.851 124.686)" fill="#9c63ff"/>
+      <path id="Caminho_89" data-name="Caminho 89" d="M499.228,395.062v4.365h4.366v8.731h-4.366v4.365h10.913v-17.46Z" transform="translate(206.851 163.691)" fill="#9c63ff"/>
+      <path id="Caminho_90" data-name="Caminho 90" d="M391.2,373.457v4.365h4.365v8.731H391.2v4.365h10.913v-17.46Z" transform="translate(162.092 154.739)" fill="#9c63ff"/>
+      <path id="Caminho_91" data-name="Caminho 91" d="M391.2,393.519v4.365h4.365v8.731H391.2v4.365h10.913v-17.46Z" transform="translate(162.092 163.052)" fill="#9c63ff"/>
+      <path id="Caminho_92" data-name="Caminho 92" d="M351.08,160.494v4.365h4.366v8.731H351.08v4.366h10.913V160.494Z" transform="translate(145.467 66.499)" fill="#9c63ff"/>
+      <path id="Caminho_93" data-name="Caminho 93" d="M351.08,239.2v4.365h4.366v8.731H351.08v4.365h10.913V239.2Z" transform="translate(145.467 99.11)" fill="#9c63ff"/>
+      <path id="Caminho_94" data-name="Caminho 94" d="M351.08,259.259v4.366h4.366v8.731H351.08v4.365h10.913V259.259Z" transform="translate(145.467 107.422)" fill="#9c63ff"/>
+      <path id="Caminho_95" data-name="Caminho 95" d="M351.08,299.383v4.365h4.366v8.731H351.08v4.365h10.913v-17.46Z" transform="translate(145.467 124.047)" fill="#9c63ff"/>
+      <path id="Caminho_96" data-name="Caminho 96" d="M351.08,356.481v4.366h4.366v8.731H351.08v4.365h10.913V356.481Z" transform="translate(145.467 147.705)" fill="#9c63ff"/>
+      <path id="Caminho_97" data-name="Caminho 97" d="M351.08,373.457v4.365h4.366v8.731H351.08v4.365h10.913v-17.46Z" transform="translate(145.467 154.739)" fill="#9c63ff"/>
+      <rect id="Retângulo_110" data-name="Retângulo 110" width="10.913" height="17.461" transform="translate(610.044 93.853)" fill="#9c63ff"/>
+      <rect id="Retângulo_111" data-name="Retângulo 111" width="10.913" height="17.461" transform="translate(610.044 122.227)" fill="#9c63ff"/>
+      <rect id="Retângulo_112" data-name="Retângulo 112" width="15.278" height="2.183" transform="translate(605.679 152.784)" fill="#9c63ff"/>
+      <rect id="Retângulo_113" data-name="Retângulo 113" width="15.278" height="2.183" transform="translate(605.679 292.472)" fill="#9c63ff"/>
+      <rect id="Retângulo_114" data-name="Retângulo 114" width="15.278" height="2.183" transform="translate(605.679 316.481)" fill="#9c63ff"/>
+      <path id="Caminho_98" data-name="Caminho 98" d="M431.327,121.914v4.365h4.366v8.731h-4.366v4.365H442.24v-17.46Z" transform="translate(178.717 50.514)" fill="#9c63ff"/>
+      <path id="Caminho_99" data-name="Caminho 99" d="M431.327,160.494v4.365h4.366v8.731h-4.366v4.366H442.24V160.494Z" transform="translate(178.717 66.499)" fill="#9c63ff"/>
+      <path id="Caminho_100" data-name="Caminho 100" d="M431.327,239.2v4.365h4.366v8.731h-4.366v4.365H442.24V239.2Z" transform="translate(178.717 99.11)" fill="#9c63ff"/>
+      <rect id="Retângulo_115" data-name="Retângulo 115" width="10.913" height="17.461" transform="translate(734.454 283.742)" fill="#9c63ff"/>
+      <rect id="Retângulo_116" data-name="Retângulo 116" width="10.913" height="17.461" transform="translate(734.454 312.116)" fill="#9c63ff"/>
+      <rect id="Retângulo_117" data-name="Retângulo 117" width="15.278" height="2.183" transform="translate(730.089 342.672)" fill="#9c63ff"/>
+      <rect id="Retângulo_118" data-name="Retângulo 118" width="15.278" height="2.183" transform="translate(730.089 482.361)" fill="#9c63ff"/>
+      <rect id="Retângulo_119" data-name="Retângulo 119" width="15.278" height="2.183" transform="translate(730.089 506.37)" fill="#9c63ff"/>
+      <path id="Caminho_101" data-name="Caminho 101" d="M519.29,256.173v4.365h4.366v8.731H519.29v4.366H530.2V256.173Z" transform="translate(215.164 106.143)" fill="#9c63ff"/>
+      <path id="Caminho_102" data-name="Caminho 102" d="M519.29,294.753v4.366h4.366v8.729H519.29v4.366H530.2V294.753Z" transform="translate(215.164 122.129)" fill="#9c63ff"/>
+      <path id="Caminho_103" data-name="Caminho 103" d="M519.29,373.457v4.365h4.366v8.731H519.29v4.365H530.2v-17.46Z" transform="translate(215.164 154.739)" fill="#9c63ff"/>
+      <rect id="Retângulo_120" data-name="Retângulo 120" width="10.913" height="17.461" transform="translate(769.376 93.853)" fill="#9c63ff"/>
+      <rect id="Retângulo_121" data-name="Retângulo 121" width="10.913" height="17.461" transform="translate(806.481 89.488)" fill="#9c63ff"/>
+      <rect id="Retângulo_122" data-name="Retângulo 122" width="10.913" height="17.461" transform="translate(826.124 89.488)" fill="#9c63ff"/>
+      <rect id="Retângulo_123" data-name="Retângulo 123" width="10.913" height="17.461" transform="translate(826.124 141.871)" fill="#9c63ff"/>
+      <rect id="Retângulo_124" data-name="Retângulo 124" width="10.913" height="17.461" transform="translate(847.951 115.679)" fill="#9c63ff"/>
+      <rect id="Retângulo_125" data-name="Retângulo 125" width="10.913" height="17.461" transform="translate(847.951 144.053)" fill="#9c63ff"/>
+      <rect id="Retângulo_126" data-name="Retângulo 126" width="10.913" height="17.461" transform="translate(826.124 198.619)" fill="#9c63ff"/>
+      <rect id="Retângulo_127" data-name="Retângulo 127" width="10.913" height="17.461" transform="translate(847.951 226.993)" fill="#9c63ff"/>
+      <rect id="Retângulo_128" data-name="Retângulo 128" width="10.913" height="17.461" transform="translate(826.124 333.942)" fill="#9c63ff"/>
+      <rect id="Retângulo_129" data-name="Retângulo 129" width="10.913" height="17.461" transform="translate(806.481 226.993)" fill="#9c63ff"/>
+      <rect id="Retângulo_130" data-name="Retângulo 130" width="10.913" height="17.461" transform="translate(769.376 122.227)" fill="#9c63ff"/>
+      <rect id="Retângulo_131" data-name="Retângulo 131" width="10.913" height="17.461" transform="translate(769.376 395.056)" fill="#9c63ff"/>
+      <rect id="Retângulo_132" data-name="Retângulo 132" width="10.913" height="17.461" transform="translate(769.376 451.804)" fill="#9c63ff"/>
+      <rect id="Retângulo_133" data-name="Retângulo 133" width="10.913" height="17.461" transform="translate(769.376 480.178)" fill="#9c63ff"/>
+      <rect id="Retângulo_134" data-name="Retângulo 134" width="15.278" height="2.183" transform="translate(765.011 152.784)" fill="#9c63ff"/>
+      <rect id="Retângulo_135" data-name="Retângulo 135" width="15.278" height="2.183" transform="translate(823.942 178.975)" fill="#9c63ff"/>
+      <rect id="Retângulo_136" data-name="Retângulo 136" width="15.278" height="2.183" transform="translate(765.011 292.472)" fill="#9c63ff"/>
+      <rect id="Retângulo_137" data-name="Retângulo 137" width="15.278" height="2.183" transform="translate(765.011 316.481)" fill="#9c63ff"/>
+      <rect id="Retângulo_138" data-name="Retângulo 138" width="15.278" height="2.183" transform="translate(823.942 456.169)" fill="#9c63ff"/>
+      <rect id="Retângulo_139" data-name="Retângulo 139" width="15.278" height="2.183" transform="translate(806.481 508.552)" fill="#9c63ff"/>
+      <path id="Caminho_104" data-name="Caminho 104" d="M543.981,121.914v4.365h4.366v8.731h-4.366v4.365H554.9v-17.46Z" transform="translate(225.394 50.514)" fill="#9c63ff"/>
+      <path id="Caminho_105" data-name="Caminho 105" d="M570.216,100.309v4.365h4.365V113.4h-4.365v4.365h10.913v-17.46Z" transform="translate(236.265 41.562)" fill="#9c63ff"/>
+      <path id="Caminho_106" data-name="Caminho 106" d="M599.537,120.37v4.366H603.9v8.731h-4.365v4.365H610.45V120.37Z" transform="translate(248.414 49.874)" fill="#9c63ff"/>
+      <path id="Caminho_107" data-name="Caminho 107" d="M599.537,180.556v4.365H603.9v8.731h-4.365v4.365H610.45v-17.46Z" transform="translate(248.414 74.812)" fill="#9c63ff"/>
+      <path id="Caminho_108" data-name="Caminho 108" d="M599.537,200.617v4.366H603.9v8.731h-4.365v4.365H610.45V200.617Z" transform="translate(248.414 83.124)" fill="#9c63ff"/>
+      <path id="Caminho_109" data-name="Caminho 109" d="M599.537,138.889v4.365H603.9v8.731h-4.365v4.366H610.45V138.889Z" transform="translate(248.414 57.548)" fill="#9c63ff"/>
+      <path id="Caminho_110" data-name="Caminho 110" d="M584.1,81.79v4.366h4.365v8.729H584.1v4.366h10.913V81.79Z" transform="translate(242.019 33.889)" fill="#9c63ff"/>
+      <rect id="Retângulo_140" data-name="Retângulo 140" width="10.913" height="17.461" transform="translate(826.124 255.367)" fill="#9c63ff"/>
+      <rect id="Retângulo_141" data-name="Retângulo 141" width="10.913" height="17.461" transform="translate(826.124 307.75)" fill="#9c63ff"/>
+      <path id="Caminho_111" data-name="Caminho 111" d="M584.1,199.074v4.365h4.365v8.731H584.1v4.366h10.913V199.074Z" transform="translate(242.019 82.485)" fill="#9c63ff"/>
+      <path id="Caminho_112" data-name="Caminho 112" d="M570.216,120.37v4.366h4.365v8.731h-4.365v4.365h10.913V120.37Z" transform="translate(236.265 49.874)" fill="#9c63ff"/>
+      <path id="Caminho_113" data-name="Caminho 113" d="M570.216,140.432V144.8h4.365v8.729h-4.365v4.366h10.913V140.432Z" transform="translate(236.265 58.187)" fill="#9c63ff"/>
+      <rect id="Retângulo_142" data-name="Retângulo 142" width="10.913" height="17.461" transform="translate(806.481 283.742)" fill="#9c63ff"/>
+      <path id="Caminho_114" data-name="Caminho 114" d="M570.216,180.556v4.365h4.365v8.731h-4.365v4.365h10.913v-17.46Z" transform="translate(236.265 74.812)" fill="#9c63ff"/>
+      <rect id="Retângulo_143" data-name="Retângulo 143" width="10.913" height="17.461" transform="translate(806.481 340.49)" fill="#9c63ff"/>
+      <path id="Caminho_115" data-name="Caminho 115" d="M570.216,220.679v4.365h4.365v8.731h-4.365v4.366h10.913V220.679Z" transform="translate(236.265 91.437)" fill="#9c63ff"/>
+      <rect id="Retângulo_144" data-name="Retângulo 144" width="10.913" height="17.461" transform="translate(806.481 397.238)" fill="#9c63ff"/>
+      <rect id="Retângulo_145" data-name="Retângulo 145" width="10.913" height="17.461" transform="translate(826.124 392.873)" fill="#9c63ff"/>
+      <path id="Caminho_116" data-name="Caminho 116" d="M570.216,260.8v4.366h4.365V273.9h-4.365v4.365h10.913V260.8Z" transform="translate(236.265 108.061)" fill="#9c63ff"/>
+      <path id="Caminho_117" data-name="Caminho 117" d="M599.537,260.8v4.366H603.9V273.9h-4.365v4.365H610.45V260.8Z" transform="translate(248.414 108.061)" fill="#9c63ff"/>
+      <rect id="Retângulo_146" data-name="Retângulo 146" width="10.913" height="17.461" transform="translate(959.265 115.679)" fill="#9c63ff"/>
+      <rect id="Retângulo_147" data-name="Retângulo 147" width="10.913" height="17.461" transform="translate(959.265 144.053)" fill="#9c63ff"/>
+      <rect id="Retângulo_148" data-name="Retângulo 148" width="10.913" height="17.461" transform="translate(959.265 226.993)" fill="#9c63ff"/>
+      <path id="Caminho_118" data-name="Caminho 118" d="M678.241,120.37v4.366h4.365v8.731h-4.365v4.365h10.913V120.37Z" transform="translate(281.024 49.874)" fill="#9c63ff"/>
+      <path id="Caminho_119" data-name="Caminho 119" d="M678.241,180.556v4.365h4.365v8.731h-4.365v4.365h10.913v-17.46Z" transform="translate(281.024 74.812)" fill="#9c63ff"/>
+      <path id="Caminho_120" data-name="Caminho 120" d="M678.241,200.617v4.366h4.365v8.731h-4.365v4.365h10.913V200.617Z" transform="translate(281.024 83.124)" fill="#9c63ff"/>
+      <path id="Caminho_121" data-name="Caminho 121" d="M678.241,138.889v4.365h4.365v8.731h-4.365v4.366h10.913V138.889Z" transform="translate(281.024 57.548)" fill="#9c63ff"/>
+      <path id="Caminho_122" data-name="Caminho 122" d="M678.241,260.8v4.366h4.365V273.9h-4.365v4.365h10.913V260.8Z" transform="translate(281.024 108.061)" fill="#9c63ff"/>
+      <rect id="Retângulo_149" data-name="Retângulo 149" width="10.913" height="17.461" transform="translate(806.481 453.986)" fill="#9c63ff"/>
+      <rect id="Retângulo_150" data-name="Retângulo 150" width="10.913" height="17.461" transform="translate(826.124 421.247)" fill="#9c63ff"/>
+      <rect id="Retângulo_151" data-name="Retângulo 151" width="10.913" height="17.461" transform="translate(806.481 528.196)" fill="#9c63ff"/>
+      <rect id="Retângulo_152" data-name="Retângulo 152" width="10.913" height="17.461" transform="translate(826.124 475.813)" fill="#9c63ff"/>
+      <path id="Caminho_123" data-name="Caminho 123" d="M570.216,300.926v4.365h4.365v8.731h-4.365v4.366h10.913V300.926Z" transform="translate(236.265 124.686)" fill="#9c63ff"/>
+      <path id="Caminho_124" data-name="Caminho 124" d="M570.216,395.062v4.365h4.365v8.731h-4.365v4.365h10.913v-17.46Z" transform="translate(236.265 163.691)" fill="#9c63ff"/>
+      <rect id="Retângulo_153" data-name="Retângulo 153" width="10.913" height="17.461" transform="translate(926.525 89.488)" fill="#9c63ff"/>
+      <rect id="Retângulo_154" data-name="Retângulo 154" width="10.913" height="17.461" transform="translate(926.525 226.993)" fill="#9c63ff"/>
+      <rect id="Retângulo_155" data-name="Retângulo 155" width="15.278" height="2.183" transform="translate(926.525 508.552)" fill="#9c63ff"/>
+      <path id="Caminho_125" data-name="Caminho 125" d="M655.093,100.309v4.365h4.365V113.4h-4.365v4.365h10.913v-17.46Z" transform="translate(271.433 41.562)" fill="#9c63ff"/>
+      <path id="Caminho_126" data-name="Caminho 126" d="M655.093,120.37v4.366h4.365v8.731h-4.365v4.365h10.913V120.37Z" transform="translate(271.433 49.874)" fill="#9c63ff"/>
+      <path id="Caminho_127" data-name="Caminho 127" d="M655.093,140.432V144.8h4.365v8.729h-4.365v4.366h10.913V140.432Z" transform="translate(271.433 58.187)" fill="#9c63ff"/>
+      <rect id="Retângulo_156" data-name="Retângulo 156" width="10.913" height="17.461" transform="translate(926.525 283.742)" fill="#9c63ff"/>
+      <path id="Caminho_128" data-name="Caminho 128" d="M655.093,180.556v4.365h4.365v8.731h-4.365v4.365h10.913v-17.46Z" transform="translate(271.433 74.812)" fill="#9c63ff"/>
+      <rect id="Retângulo_157" data-name="Retângulo 157" width="10.913" height="17.461" transform="translate(926.525 340.49)" fill="#9c63ff"/>
+      <path id="Caminho_129" data-name="Caminho 129" d="M655.093,220.679v4.365h4.365v8.731h-4.365v4.366h10.913V220.679Z" transform="translate(271.433 91.437)" fill="#9c63ff"/>
+      <rect id="Retângulo_158" data-name="Retângulo 158" width="10.913" height="17.461" transform="translate(926.525 397.238)" fill="#9c63ff"/>
+      <path id="Caminho_130" data-name="Caminho 130" d="M655.093,260.8v4.366h4.365V273.9h-4.365v4.365h10.913V260.8Z" transform="translate(271.433 108.061)" fill="#9c63ff"/>
+      <rect id="Retângulo_159" data-name="Retângulo 159" width="10.913" height="17.461" transform="translate(926.525 453.986)" fill="#9c63ff"/>
+      <rect id="Retângulo_160" data-name="Retângulo 160" width="10.913" height="17.461" transform="translate(926.525 528.196)" fill="#9c63ff"/>
+      <path id="Caminho_131" data-name="Caminho 131" d="M655.093,300.926v4.365h4.365v8.731h-4.365v4.366h10.913V300.926Z" transform="translate(271.433 124.686)" fill="#9c63ff"/>
+      <path id="Caminho_132" data-name="Caminho 132" d="M655.093,395.062v4.365h4.365v8.731h-4.365v4.365h10.913v-17.46Z" transform="translate(271.433 163.691)" fill="#9c63ff"/>
+      <rect id="Retângulo_161" data-name="Retângulo 161" width="10.913" height="17.461" transform="translate(978.908 89.488)" fill="#9c63ff"/>
+      <rect id="Retângulo_162" data-name="Retângulo 162" width="10.913" height="17.461" transform="translate(978.908 226.993)" fill="#9c63ff"/>
+      <rect id="Retângulo_163" data-name="Retângulo 163" width="15.278" height="2.183" transform="translate(978.908 508.552)" fill="#9c63ff"/>
+      <path id="Caminho_133" data-name="Caminho 133" d="M692.13,100.309v4.365h4.365V113.4H692.13v4.365h10.913v-17.46Z" transform="translate(286.779 41.562)" fill="#9c63ff"/>
+      <path id="Caminho_134" data-name="Caminho 134" d="M692.13,120.37v4.366h4.365v8.731H692.13v4.365h10.913V120.37Z" transform="translate(286.779 49.874)" fill="#9c63ff"/>
+      <path id="Caminho_135" data-name="Caminho 135" d="M692.13,140.432V144.8h4.365v8.729H692.13v4.366h10.913V140.432Z" transform="translate(286.779 58.187)" fill="#9c63ff"/>
+      <rect id="Retângulo_164" data-name="Retângulo 164" width="10.913" height="17.461" transform="translate(978.908 283.742)" fill="#9c63ff"/>
+      <path id="Caminho_136" data-name="Caminho 136" d="M692.13,180.556v4.365h4.365v8.731H692.13v4.365h10.913v-17.46Z" transform="translate(286.779 74.812)" fill="#9c63ff"/>
+      <rect id="Retângulo_165" data-name="Retângulo 165" width="10.913" height="17.461" transform="translate(978.908 340.49)" fill="#9c63ff"/>
+      <path id="Caminho_137" data-name="Caminho 137" d="M692.13,220.679v4.365h4.365v8.731H692.13v4.366h10.913V220.679Z" transform="translate(286.779 91.437)" fill="#9c63ff"/>
+      <rect id="Retângulo_166" data-name="Retângulo 166" width="10.913" height="17.461" transform="translate(978.908 397.238)" fill="#9c63ff"/>
+      <path id="Caminho_138" data-name="Caminho 138" d="M692.13,260.8v4.366h4.365V273.9H692.13v4.365h10.913V260.8Z" transform="translate(286.779 108.061)" fill="#9c63ff"/>
+      <rect id="Retângulo_167" data-name="Retângulo 167" width="10.913" height="17.461" transform="translate(978.908 453.986)" fill="#9c63ff"/>
+      <rect id="Retângulo_168" data-name="Retângulo 168" width="10.913" height="17.461" transform="translate(978.908 528.196)" fill="#9c63ff"/>
+      <path id="Caminho_139" data-name="Caminho 139" d="M692.13,300.926v4.365h4.365v8.731H692.13v4.366h10.913V300.926Z" transform="translate(286.779 124.686)" fill="#9c63ff"/>
+      <path id="Caminho_140" data-name="Caminho 140" d="M692.13,395.062v4.365h4.365v8.731H692.13v4.365h10.913v-17.46Z" transform="translate(286.779 163.691)" fill="#9c63ff"/>
+      <path id="Caminho_141" data-name="Caminho 141" d="M584.1,373.457v4.365h4.365v8.731H584.1v4.365h10.913v-17.46Z" transform="translate(242.019 154.739)" fill="#9c63ff"/>
+      <path id="Caminho_142" data-name="Caminho 142" d="M584.1,393.519v4.365h4.365v8.731H584.1v4.365h10.913v-17.46Z" transform="translate(242.019 163.052)" fill="#9c63ff"/>
+      <path id="Caminho_143" data-name="Caminho 143" d="M543.981,160.494v4.365h4.366v8.731h-4.366v4.366H554.9V160.494Z" transform="translate(225.394 66.499)" fill="#9c63ff"/>
+      <path id="Caminho_144" data-name="Caminho 144" d="M543.981,239.2v4.365h4.366v8.731h-4.366v4.365H554.9V239.2Z" transform="translate(225.394 99.11)" fill="#9c63ff"/>
+      <path id="Caminho_145" data-name="Caminho 145" d="M543.981,259.259v4.366h4.366v8.731h-4.366v4.365H554.9V259.259Z" transform="translate(225.394 107.422)" fill="#9c63ff"/>
+      <path id="Caminho_146" data-name="Caminho 146" d="M543.981,299.383v4.365h4.366v8.731h-4.366v4.365H554.9v-17.46Z" transform="translate(225.394 124.047)" fill="#9c63ff"/>
+      <path id="Caminho_147" data-name="Caminho 147" d="M543.981,356.481v4.366h4.366v8.731h-4.366v4.365H554.9V356.481Z" transform="translate(225.394 147.705)" fill="#9c63ff"/>
+      <path id="Caminho_148" data-name="Caminho 148" d="M543.981,373.457v4.365h4.366v8.731h-4.366v4.365H554.9v-17.46Z" transform="translate(225.394 154.739)" fill="#9c63ff"/>
+      <rect id="Retângulo_169" data-name="Retângulo 169" width="10.913" height="17.461" transform="translate(882.873 93.853)" fill="#9c63ff"/>
+      <rect id="Retângulo_170" data-name="Retângulo 170" width="10.913" height="17.461" transform="translate(882.873 122.227)" fill="#9c63ff"/>
+      <rect id="Retângulo_171" data-name="Retângulo 171" width="15.278" height="2.183" transform="translate(878.507 152.784)" fill="#9c63ff"/>
+      <rect id="Retângulo_172" data-name="Retângulo 172" width="15.278" height="2.183" transform="translate(878.507 292.472)" fill="#9c63ff"/>
+      <rect id="Retângulo_173" data-name="Retângulo 173" width="15.278" height="2.183" transform="translate(878.507 316.481)" fill="#9c63ff"/>
+      <path id="Caminho_149" data-name="Caminho 149" d="M624.228,121.914v4.365h4.366v8.731h-4.366v4.365h10.913v-17.46Z" transform="translate(258.644 50.514)" fill="#9c63ff"/>
+      <path id="Caminho_150" data-name="Caminho 150" d="M624.228,160.494v4.365h4.366v8.731h-4.366v4.366h10.913V160.494Z" transform="translate(258.644 66.499)" fill="#9c63ff"/>
+      <path id="Caminho_151" data-name="Caminho 151" d="M624.228,239.2v4.365h4.366v8.731h-4.366v4.365h10.913V239.2Z" transform="translate(258.644 99.11)" fill="#9c63ff"/>
+      <rect id="Retângulo_174" data-name="Retângulo 174" width="10.913" height="17.461" transform="translate(1007.282 283.742)" fill="#9c63ff"/>
+      <rect id="Retângulo_175" data-name="Retângulo 175" width="10.913" height="17.461" transform="translate(1007.282 312.116)" fill="#9c63ff"/>
+      <rect id="Retângulo_176" data-name="Retângulo 176" width="15.278" height="2.183" transform="translate(1002.917 342.672)" fill="#9c63ff"/>
+      <rect id="Retângulo_177" data-name="Retângulo 177" width="15.278" height="2.183" transform="translate(1002.917 482.361)" fill="#9c63ff"/>
+      <rect id="Retângulo_178" data-name="Retângulo 178" width="15.278" height="2.183" transform="translate(1002.917 506.37)" fill="#9c63ff"/>
+      <path id="Caminho_152" data-name="Caminho 152" d="M712.191,256.173v4.365h4.366v8.731h-4.366v4.366H723.1V256.173Z" transform="translate(295.091 106.143)" fill="#9c63ff"/>
+      <path id="Caminho_153" data-name="Caminho 153" d="M712.191,294.753v4.366h4.366v8.729h-4.366v4.366H723.1V294.753Z" transform="translate(295.091 122.129)" fill="#9c63ff"/>
+      <path id="Caminho_154" data-name="Caminho 154" d="M712.191,373.457v4.365h4.366v8.731h-4.366v4.365H723.1v-17.46Z" transform="translate(295.091 154.739)" fill="#9c63ff"/>
+      <rect id="Retângulo_179" data-name="Retângulo 179" width="1170.516" height="3.613" transform="translate(303.284 999.281)" fill="#2f2e41"/>
+      <path id="Caminho_155" data-name="Caminho 155" d="M509.229,499.8v73.546l9.9,45.259s-1.414,28.287,0,36.773S517.715,678,509.229,678,496.5,699.218,496.5,699.218s-2.829,8.486-9.9,9.9-7.072,0-7.072,0l-5.657,14.143L356.48,801.05l22.629,56.574s35.359-12.729,38.187-16.972,26.872,5.657,26.872-4.243,4.243-35.359,12.729-36.773,79.2-33.944,79.2-33.944,36.773-41.016,39.6-56.574,15.558-59.4,15.558-59.4l35.359,59.4v118.8l-5.657,63.645,62.231-8.486s-5.657-39.6,0-45.259,14.143-73.546,8.486-82.032,2.829-46.673,0-52.331-1.414-46.673-8.486-57.988-49.5-127.291-49.5-127.291Z" transform="translate(36 72.079)" fill="#2f2e41"/>
+      <path id="Caminho_156" data-name="Caminho 156" d="M552.976,776.453s-21.215,35.359-7.072,39.6,41.016,0,43.845,0,53.745,1.414,53.745,1.414,33.944-7.072,33.944-16.972-21.215-9.9-28.287-11.315S598.235,770.8,598.235,770.8Z" transform="translate(112.472 184.366)" fill="#2f2e41"/>
+      <path id="Caminho_157" data-name="Caminho 157" d="M372.558,714.209s-40.878-5.413-39.15,9.251,16.3,37.637,17.427,40.232c.761,1.758,9.694,24.013,15.381,38.2a82.7,82.7,0,0,0,18.154,27.795c5.56,5.557,11.62,10.013,15.595,8.291,9.085-3.935.652-23.4-.861-30.454s-3.366-54.03-3.366-54.03Z" transform="translate(26.418 160.516)" fill="#2f2e41"/>
+      <path id="Caminho_158" data-name="Caminho 158" d="M612.691,380.356,657.95,275.695s-4.243-9.9-14.143-8.486c0,0-13.436-34.651-38.894-34.651,0,0-38.187-21.215-49.5,0,0,0-24.044,21.215-22.629,41.016s2.829,33.944,2.829,33.944-22.63,2.829-18.386,14.143,5.657,11.315,0,15.558l-5.657,4.243s-117.39,106.076-52.331,261.653l5.657,24.044v22.629s142.849,1.414,142.849,0-2.829-9.9,2.829-15.558,5.657-14.143,5.657-14.143S610.57,591.8,613.4,583.315s4.243-45.259-1.414-53.745-2.829-76.375-2.829-76.375l12.729-24.044-4.243-14.143L613.4,400.864Z" transform="translate(70.436 -42.555)" fill="#8985a8"/>
+      <path id="Caminho_159" data-name="Caminho 159" d="M584.793,626.779s-16.972-46.673-15.558-55.159-2.829-25.458-2.829-25.458L560.749,431.6s24.044-101.833-29.7-118.8c0,0-13.6,5.934-24.742,25.03-11.019,4.908-24.39,17.329-27.588,48.516-5.657,55.159,19.8,196.594,32.53,220.637s21.215,41.016,21.215,41.016l13.3-5.913c.549,1.09.839,1.67.839,1.67Z" transform="translate(86.313 -5.403)" opacity="0.1"/>
+      <circle id="Elipse_1" data-name="Elipse 1" cx="4.243" cy="4.243" r="4.243" transform="translate(674.641 316.586)" fill="#f2f2f2"/>
+      <rect id="Retângulo_180" data-name="Retângulo 180" width="2.829" height="66.474" transform="translate(677.47 320.829)" fill="#3f3d56"/>
+      <path id="Caminho_160" data-name="Caminho 160" d="M522.981,541.61,534.3,565.654s25.458-8.486,25.458-12.729-11.315-22.63-11.315-22.63Z" transform="translate(104.987 84.717)" fill="#ffb8b8"/>
+      <path id="Caminho_161" data-name="Caminho 161" d="M522.9,312.8s-32.53,14.143-38.187,69.3,19.8,196.594,32.53,220.638,21.215,41.016,21.215,41.016l38.187-16.972s-16.972-46.673-15.558-55.159-2.829-25.458-2.829-25.458L552.606,431.6S576.649,329.767,522.9,312.8Z" transform="translate(88.799 -5.403)" fill="#8985a8"/>
+    </g>
+    <text id="Negra" transform="translate(1056 905)" fill="#9c63ff" font-size="200" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="194">Negra</tspan></text>
+    <text id="Linha" transform="translate(262 245)" fill="#9c63ff" font-size="200" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="194">Linha</tspan></text>
+  </g>
+</svg>
